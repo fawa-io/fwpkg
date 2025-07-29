@@ -1,2 +1,2 @@
 # fwpkg
-some share pkg for all microservices
+some share pkg for fawa microservices
