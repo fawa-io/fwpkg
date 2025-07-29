@@ -1,4 +1,4 @@
-module fwpkg
+module github.com/fawa-io/fwpkg
 
 go 1.24
 
